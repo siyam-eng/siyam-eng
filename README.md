@@ -114,7 +114,7 @@ A passionate **full-stack developer** and **literature student** who loves turni
 ---
 
 ### ⚡ Fun Fact:
-A literature student who writes poetry in the classroom and writes Python scripts at night.
+A literature student who analyses poetry in the classroom and writes Python scripts at home.
 
 
 
